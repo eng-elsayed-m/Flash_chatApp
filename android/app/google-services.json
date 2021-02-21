@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "873615583307",
+    "project_id": "chat-app-9e08c",
+    "storage_bucket": "chat-app-9e08c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:873615583307:android:358c581c69cbdfe161c5ce",
+        "android_client_info": {
+          "package_name": "com.elsayedMu.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "873615583307-jp5jpvdlv601sk3l0e6j8qmi4hn9hjbn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHQfmVhC2awJEfX0OtKTSiBTHKs9R6wAU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "873615583307-jp5jpvdlv601sk3l0e6j8qmi4hn9hjbn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
